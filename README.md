@@ -132,6 +132,14 @@
 
 <li>
 <a href="#" target="_blank">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  mohamed-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
