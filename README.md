@@ -124,6 +124,14 @@
 
 <li>
 <a href="#" target="_blank">
+<img src="https://img.shields.io/badge/<med.igher>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  mohamed-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
