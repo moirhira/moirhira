@@ -132,7 +132,7 @@
 
 <li>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Mohamed IRHIRALLAH%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
