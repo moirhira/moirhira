@@ -10,12 +10,13 @@
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+<img src="https://camo.githubusercontent.com/ca858ee……6467652…" alt="ael-mouz's 42 stats" data-canonical-src="https://badge.mediaplus.ma/greenbinary/ael-mouz" style="max-width: 100%;">
+</br>
 
 - A passionate Self-taught Front-end developer
 - Currently learning, im student in 1337 
