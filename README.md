@@ -5,8 +5,8 @@
 	I'm Mohamed, a full-stack developer, and currently a first-year student at 1337.
 </p>
 <br>
-<h4>1337 Info</h4>
 <hr>
+<h4>1337 Info</h4>
 <img alt="moirhira 42 stats" src="https://badge.mediaplus.ma/greenbinary/moirhira" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
