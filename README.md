@@ -2,7 +2,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Mohamed IRHIRALLAH </b></h1>
 <br>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<br>
+<h3>About me</h3>
+<p>
+	I'm Mohamed, a full-stack developer, and currently a first-year student at 1337.
+</p>
 <br>
 <img alt="moirhira 42 stats" src="https://badge.mediaplus.ma/greenbinary/moirhira" />
 </br>
