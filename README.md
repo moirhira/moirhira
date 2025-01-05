@@ -1,21 +1,10 @@
 
-<h1 align="center"><b>Hi , I'm Mohamed IRHIRALLAH </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png"></a>
-</p>
-
-
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Mohamed IRHIRALLAH </b></h1>
 <br>
-
-
-
-
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-<img alt="moirhira 42 stats" src="https://badge.mediaplus.ma/greenbinary/moirhira" />
+<img align="left" alt="moirhira 42 stats" src="https://badge.mediaplus.ma/greenbinary/moirhira" />
 
 </br>
 
