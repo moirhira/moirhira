@@ -15,7 +15,8 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-<img  alt="moirhira 42 stats" data-canonical-src="https://badge.mediaplus.ma/greenbinary/moirhira" style="max-width: 100%;">
+<img alt="moirhira 42 stats" src="https://badge.mediaplus.ma/greenbinary/moirhira" />
+
 </br>
 
 - A passionate Self-taught Front-end developer
