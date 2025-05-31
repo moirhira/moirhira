@@ -17,8 +17,11 @@
 
 <p align="center">
 
-- **Languages**:
+- ***Languages***:
 - **C/C++**
+- **HTML/CSS**
+- **JavaScript**
+- **Python**
 
 
 <br>
