@@ -38,7 +38,23 @@ Through projects like fully containerized multi-service architectures (Docker, N
 
 <br>
 
-## 🛠️ Skills & Tech Stack
+## � Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## �🛠️ Skills & Tech Stack
 
 <br>
 
@@ -98,6 +114,18 @@ Through projects like fully containerized multi-service architectures (Docker, N
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moirhira&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" alt="moirhira trophies"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 ## 📊 GitHub Stats
 
 <br>
@@ -114,6 +142,36 @@ Through projects like fully containerized multi-service architectures (Docker, N
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moirhira&theme=tokyonight&hide_border=false&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="500"/>
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moirhira&bg_color=0d0d0d&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moirhira/moirhira/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moirhira/moirhira/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/moirhira/moirhira/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> 💡 **To activate the snake:** Add a GitHub Actions workflow to your profile repo that runs `Platane/snk` on a schedule. See [platane/snk](https://github.com/Platane/snk) for setup — it takes ~2 minutes.
 
 <br>
 
