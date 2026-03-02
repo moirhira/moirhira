@@ -2,9 +2,19 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Mohamed IRHIRALLAH </b></h1>
 <h3>About me </h3>
 <p>
-	Hello, I’m Mohamed, a passionate software engineering student at 1337 School in UM6P Rabat.
-	I specialize in C/C++, shell scripting, networking, and algorithms, combining strategic thinking with hands-on problem-solving. Explore my repositories to see how I turn challenges into innovative solutions!
-	Feel free to explore my repositories and projects, where I bring my passion for technology to life! 🌟"
+	I am a DevOps-focused software engineering student at 1337 UM6P (42 Network), passionate about infrastructure, automation, and building production-ready systems.
+
+As the Founder of ZeroOps, a DevOps club at 1337, I lead initiatives that help students explore containerization, CI/CD pipelines, Linux systems, and cloud fundamentals.
+
+Through hands-on projects such as containerized multi-service architectures (Docker, Nginx, MariaDB, WordPress), I’ve developed strong experience in:
+
+• Docker & Docker Compose
+• Linux system administration
+• Reverse proxy configuration (Nginx, SSL/TLS)
+• Environment management & secrets handling
+• Networking fundamentals
+
+I am particularly interested in DevOps, Cloud Engineering, and Platform Automation, and I am currently seeking a DevOps internship where I can contribute to building reliable, secure, and scalable systems.
 </p>
 <br>
 <hr>
