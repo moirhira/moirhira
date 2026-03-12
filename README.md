@@ -19,7 +19,7 @@
 
 I am a **DevOps-focused software engineering student** at **1337 UM6P (42 Network)**, passionate about infrastructure, automation, and building production-ready systems.
 
-As the **Founder of [ZeroOps](https://github.com/ZeroOps-1337)** — a DevOps club at 1337 — I lead initiatives that help students explore containerization, CI/CD pipelines, Linux systems, and cloud fundamentals through hands-on workshops and real-world projects.
+As the **Founder of [ZeroOps](https://www.linkedin.com/company/zero-ops)** — a DevOps club at 1337 — I lead initiatives that help students explore containerization, CI/CD pipelines, Linux systems, and cloud fundamentals through hands-on workshops and real-world projects.
 
 Through projects like fully containerized multi-service architectures (Docker, Nginx, MariaDB, WordPress), I've built strong experience in:
 
